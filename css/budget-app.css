@@ -1,0 +1,23 @@
+
+.app-name{
+background-color: coral;
+}
+.col-10{
+    background-color: #c3c3c3;
+}
+.hide{
+    display: none;
+}
+
+.showGreen{
+    background-color: green;
+}
+.showGray{
+    background-color: grey;
+}
+
+.showRed{
+    background-color: red;
+}
+
+
